@@ -44,9 +44,7 @@ See also the list of [contributors](https://github.com/Oliverdx/Vader-WP-Starter
 This project is licensed under the GPLv3. - see the [LICENSE.md](LICENSE.md) file for details
 
 
-## Vader WP Starter Theme
-### Copyright © 2019 - Vanderlei Oliveira
-
-Vader WP Starter Theme, Copyright (C) 2019 - Vanderlei Oliveira,
+**Copyright © 2019 - By Vanderlei Oliveira**
+_Vader WP Starter Theme, Copyright (C) 2019,
 with colaboration of [Dennis Lessa](https://www.linkedin.com/in/dennis-lessa-5643716b/) and [Filipe Marins](https://github.com/filipemarins)
-This is free boilerplate, and you are welcome to redistribute it under certain conditions;
+This is free boilerplate, and you are welcome to redistribute it under certain conditions;_
