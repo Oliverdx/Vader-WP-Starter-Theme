@@ -31,13 +31,13 @@ and of course know how a WP theme works
 
 ## Contributing
 
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
+Please read [CONTRIBUTING.md](https://github.com/Oliverdx/Vader-WP-Starter-Theme/blob/master/COLABORATING.md) for details on our code of conduct, and the process for submitting pull requests to us.
 
 ## Authors
 
 * **Vanderlei Oliveira** - *Initial work* - [Oliverdx](https://github.com/oliverdx)
 
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+See also the list of [contributors](https://github.com/Oliverdx/Vader-WP-Starter-Theme/graphs/contributors) who participated in this project.
 
 ## License
 
