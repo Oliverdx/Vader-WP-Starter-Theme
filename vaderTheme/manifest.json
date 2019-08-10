@@ -1,0 +1,15 @@
+{
+    "name": "SITE NAME",
+    "short_name": "APP NAME",
+    "start_url": "/?utm_source=homescreen",
+    "display": "standalone",
+    "background_color": "#fff",
+    "theme_color": "#555",
+    "orientation": "portrait",
+    "description": "DESCRIPTION OF THE SITE",
+    "icons": [{
+        "src": "favicon.png",
+        "type": "image/png",
+        "sizes": "192x192"
+    }]
+}
